@@ -4,16 +4,16 @@
 
 
 <a href="https://github.com/mala1188">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Marden's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/its.__.marden/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Marden's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/malamarden1/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Marden's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/MA LA/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Marden's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![GitHub mala1188](https://img.shields.io/github/followers/mala1188?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-securebot-2648ff?style=flat-square&logo=google-chrome)](https://sites.google.com/view/mardenbot-comdiscord/home)
 
 
@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Marden's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt=" github stats"/>
 </a>
 <a href="https://github.com/mala1188/securityv12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mala1188&repo=securityv12&theme=light" />
