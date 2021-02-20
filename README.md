@@ -48,11 +48,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mala1188&show_icons=true&theme=dark&line_height=27" alt="Marden's github stats"/>
 </a>
 <a href="https://github.com/mala1188/securityv12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mala1188&repo=securityv12&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mala1188&repo=mala1188&theme=light" />
 
 </a>
-<a href="https://github.com/mala1188/securityv12">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mala1188&repo=securityv12&theme=light" />
+<a href="https://github.com/mala1188/mala1188">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mala1188&repo=mala1188&theme=light" />
 </a>
 
 <div align="center">
