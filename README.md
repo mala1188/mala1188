@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/nohave" target="blank"><img src="https://img.shields.io/twitter/follow/nohave?logo=twitter&style=for-the-badge" alt="nohave" /></a> </p>
 
 - 🔭 I’m currently working on **discord bot (secure bot)**
+- 🔭 I’m currently creating app ** kurdi book**
+- 💞 help other developer just for **being friend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
