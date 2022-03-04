@@ -17,7 +17,7 @@
 <a href="https://twitter.com/nohave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nohave" height="30" width="40" /></a>
 <a href="https://fb.com/malamarden1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="malamarden1" height="30" width="40" /></a>
 <a href="https://instagram.com/its.__.marden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its.__.marden" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ma la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ma la" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSaXsFkh8AtwEWHvmr1R_cg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ma la" height="30" width="40" /></a>
 <a href="https://discord.gg/qnyw5HypHu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="qnyw5HypHu" height="30" width="40" /></a>
 </p>
 
